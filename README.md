@@ -17,6 +17,8 @@ Developed regions generally have higher life expectancy
 There is a strong positive relationship between GDP and life expectancy
 Certain countries consistently rank among the top performers
 Regional population distribution plays a key role in global trends
+
+
 📈 Dashboard Features
 KPI Cards: Avg Life Expectancy, Avg GDP, Total Population
 Trend Analysis (Year-wise Life Expectancy)
@@ -26,11 +28,16 @@ Top 10 Countries by Life Expectancy
 GDP vs Life Expectancy (Scatter Analysis)
 Global Map Visualization
 Interactive Slicers (Year & Region)
+
+
 🛠️ Tools & Skills Used
 Power BI
 Data Cleaning & Transformation
 Data Modeling
 DAX (Measures & Calculated Columns)
 Data Visualization & Storytelling
+
+
+
 📸 Dashboard Preview
 ![Dashboard Preview](life_dashbaord.png)
